@@ -5,7 +5,7 @@ Versions:
 - python-gui: Needs python and relevant python libraries installed
 - windows-x64: Executable application for Windows running on Intel 64-bit processors [download link] *under development*
 - macos-x64: Executable application for MacOS running on Intel 64-bit processors [download link] *under development*
-- macos-aarch64: Executable application for MacOS running on Apple Silicon processors [download link] * *under development*
+- macos-aarch64: Executable application for MacOS running on Apple Silicon processors [download link] *under development*
 
 **Notice: We are in the process of updating the code.**
   
