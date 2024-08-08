@@ -10,8 +10,6 @@ Versions:
 **Notice: We are in the process of updating the code.**
   
 Library requirements for those running it on Python:
-- tkinter
-- numpy
 - pillow version 9.2.0 or higher
 - numpy version 1.23.3 or higher
 - pytz version 2022.1 or higher
