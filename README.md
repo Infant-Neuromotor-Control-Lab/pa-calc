@@ -1,15 +1,13 @@
 # pa-calc
 Collection of tools to compute physical activity intensity levels in infants using accelerometers.
 
-Versions:
-- python-gui: Needs python and relevant python libraries installed
-- windows-x64: Executable application for Windows running on Intel 64-bit processors [download link] *under development*
-- macos-x64: Executable application for MacOS running on Intel 64-bit processors [download link] *under development*
-- macos-aarch64: Executable application for MacOS running on Apple Silicon processors [download link] *under development*
+Included:
+- python-gui: Compute physical activity intensity levels, needs python and relevant python libraries installed
+- helper-tools (under development): collection of tools to prepare your sensor files to a format usable by python-gui
 
 **Notice: We are in the process of updating the code.**
   
-Library requirements for those running it on Python:
+Python library prerequisites:
 - pillow version 9.2.0 or higher
 - numpy version 1.23.3 or higher
 - pytz version 2022.1 or higher
