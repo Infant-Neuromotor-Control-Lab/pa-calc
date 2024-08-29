@@ -2,8 +2,9 @@
 Collection of tools to compute physical activity intensity levels in infants using accelerometers.
 
 Included:
-- python-gui: Compute physical activity intensity levels, needs python and relevant python libraries installed
+- documentation: All the documentation for the code in this repository
 - helper-tools (under development): collection of tools to prepare your sensor files to a format usable by python-gui
+- python-gui: Compute physical activity intensity levels, needs python and relevant python libraries installed
 
 **Notice: We are in the process of updating the code.**
   
