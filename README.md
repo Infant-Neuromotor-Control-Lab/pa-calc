@@ -2,12 +2,10 @@
 Collection of tools to compute physical activity intensity levels in infants using accelerometers.
 
 Included:
-- documentation: All the documentation for the code in this repository
-- helper-tools (under development): collection of tools to prepare your sensor files to a format usable by python-gui
 - python-gui: Compute physical activity intensity levels, needs python and relevant python libraries installed
-
-**Notice: We are in the process of updating the code.**
-  
+- documentation: All the documentation for the code in this repository
+- helper-tools: collection of tools to prepare your sensor files to a format usable by python-gui, provided only as a reference to write your own code **Note: under development**
+ 
 Python library prerequisites:
 - pillow version 9.2.0 or higher
 - numpy version 1.23.3 or higher
